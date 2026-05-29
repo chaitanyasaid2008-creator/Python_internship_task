@@ -2,5 +2,5 @@ list=["A1","A2","A3","B1","C1","D1"]
 seat=input("enter a seat number")
 if seat in list:
     print("seat is booked")
-  else:
+else:
     print("seat is not booked")
